@@ -1,2 +1,2 @@
 # Permalist
-Todo App with database
+ejs Todo App with database
